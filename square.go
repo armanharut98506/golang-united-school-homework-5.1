@@ -23,4 +23,4 @@ func (s *Square) Area() uint {
 
 func (s *Square) Perimeter() uint {
 	return 4 * s.a
-}me
+}
